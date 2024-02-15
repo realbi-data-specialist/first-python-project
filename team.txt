@@ -1,2 +1,5 @@
-leader : sadam
 staf : tata
+
+tim inti
+fad
+
